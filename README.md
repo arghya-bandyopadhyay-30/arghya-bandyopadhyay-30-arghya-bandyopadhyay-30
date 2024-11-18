@@ -1,2 +1,3 @@
 ### Watch the Snake Eat My Contributions 🐍
-![Snake animation](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/arghya-bandyopadhyay-30/arghya-bandyopadhyay-30/blob/output/github-contribution-grid-snake.svg)
+
