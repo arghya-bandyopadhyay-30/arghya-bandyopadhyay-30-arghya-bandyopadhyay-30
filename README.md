@@ -1,2 +1,2 @@
 ### Watch the Snake Eat My Contributions 🐍
-![GitHub Snake](assets/snake.svg)
+![Snake animation](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY/blob/output/github-contribution-grid-snake.svg)
