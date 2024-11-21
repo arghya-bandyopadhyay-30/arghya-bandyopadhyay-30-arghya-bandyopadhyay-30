@@ -13,6 +13,10 @@ Curious about me? Chat with **Vyom**, my personal AI-powered assistant, and get 
 
 [Start a Conversation with Vyom Here!](https://vyom-chatbot-app.onrender.com/)
 
+### 🔢 Metrics & Dashboard
+- ![Profile Views](https://komarev.com/ghpvc/?username=arghya-bandyopadhyay-30&color=blue)
+- ![Vyom Version](https://img.shields.io/badge/version-1.0.0-blue)
+
 ## 🏆 GitHub Profile Stats
 
 ![Arghya's GitHub stats](https://github-readme-stats.vercel.app/api?username=arghya-bandyopadhyay-30&show_icons=true&theme=radical)
