@@ -7,6 +7,12 @@ Feel free to reach out to me:
 - [LinkedIn](https://www.linkedin.com/in/arghya-bandyopadhyay)
 - [Email](mailto:arghya.bandyopadhyay.official1@gmail.com)
 
+## 🤖 Meet Vyom - My Personal Chatbot
+
+Curious about me? Chat with **Vyom**, my personal AI-powered assistant, and get to know more about my professional journey, skills, projects, and more.
+
+[Start a Conversation with Vyom Here!](https://vyom-chatbot-app.onrender.com/)
+
 ## 🏆 GitHub Profile Stats
 
 ![Arghya's GitHub stats](https://github-readme-stats.vercel.app/api?username=arghya-bandyopadhyay-30&show_icons=true&theme=radical)
@@ -14,7 +20,5 @@ Feel free to reach out to me:
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=arghya-bandyopadhyay-30&theme=radical&row=1&column=6)
 
-
 ### Watch the Snake Eat My Contributions 🐍
 ![Snake animation](https://github.com/arghya-bandyopadhyay-30/arghya-bandyopadhyay-30/blob/output/github-contribution-grid-snake.svg)
-
