@@ -14,13 +14,14 @@ Curious about me? Chat with **Vyom**, my personal AI-powered assistant, and get 
 [Start a Conversation with Vyom Here!](https://vyom-chatbot-app.onrender.com/)
 
 ### 🔢 Metrics & Dashboard
-- ![Profile Views](https://komarev.com/ghpvc/?username=arghya-bandyopadhyay-30&color=blue)
-- ![Vyom Version](https://img.shields.io/badge/version-1.0.0-blue)
+- [![Profile Views](https://komarev.com/ghpvc/?username=arghya-bandyopadhyay-30&color=blue)](https://vyom-chatbot-app.onrender.com)
+[![Vyom Version](https://img.shields.io/github/v/tag/arghya-bandyopadhyay-30/vyom_chat?label=version&color=blue)](https://github.com/arghya-bandyopadhyay-30/vyom_chat/releases/tag/$(curl -s https://api.github.com/repos/arghya-bandyopadhyay-30/vyom_chat/releases/latest | jq -r .tag_name))
+
 
 ## 🏆 GitHub Profile Stats
 
-![Arghya's GitHub stats](https://github-readme-stats.vercel.app/api?username=arghya-bandyopadhyay-30&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arghya-bandyopadhyay-30&layout=compact&theme=radical)
+
+[![Vyom Version](https://img.shields.io/github/v/tag/arghya-bandyopadhyay-30/vyom_chat?label=version&color=blue)](https://github.com/arghya-bandyopadhyay-30/vyom_chat/tags)
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=arghya-bandyopadhyay-30&theme=radical&row=1&column=6)
 
