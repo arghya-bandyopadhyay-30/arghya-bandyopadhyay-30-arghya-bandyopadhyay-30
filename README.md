@@ -1,4 +1,4 @@
-![Red and Black Background](./assets/background.gif)
+![Red and Black Background](./bg-gif.gif)
 
 # Welcome to Arghya Bandyopadhyay's GitHub Profile! 👋
 
