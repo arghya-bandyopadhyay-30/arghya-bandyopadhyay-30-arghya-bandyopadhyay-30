@@ -1,5 +1,3 @@
-![Red and Black Background](./bg-gif.gif)
-
 # Welcome to Arghya Bandyopadhyay's GitHub Profile! 👋
 
 Hello! I'm Arghya, an Application Developer at Thoughtworks. I enjoy blending creativity with technology and exploring new skills and interests. Based in Kolkata, I’m constantly looking for new opportunities to learn and grow.
