@@ -2,20 +2,12 @@
 
 Hello! I'm Arghya, an Application Developer at Thoughtworks. I enjoy blending creativity with technology and exploring new skills and interests. Based in Kolkata, I’m constantly looking for new opportunities to learn and grow.
 
-## Contact Information
-Feel free to reach out to me:
-- [LinkedIn](https://www.linkedin.com/in/arghya-bandyopadhyay)
-- [Email](mailto:arghya.bandyopadhyay.official1@gmail.com)
+[![My Website](https://img.shields.io/badge/My%20Website-RUNNING-green?style=for-the-badge&logo=github)](https://vyom-chatbot-app.onrender.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=arghya-bandyopadhyay-30&color=purple&style=for-the-badge)]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-CONNECT%20WITH%20ME-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/arghya-bandyopadhyay)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/arghya-bandyopadhyay/)
 
-## 🤖 Meet Vyom - My Personal Chatbot
-
-Curious about me? Chat with **Vyom**, my personal AI-powered assistant, and get to know more about my professional journey, skills, projects, and more.
-
-[Start a Conversation with Vyom Here!](https://vyom-chatbot-app.onrender.com/)
-
-### 🔢 Metrics & Dashboard
-- [![Profile Views](https://komarev.com/ghpvc/?username=arghya-bandyopadhyay-30&color=blue)](https://vyom-chatbot-app.onrender.com)
-- [![Vyom Version](https://img.shields.io/github/v/tag/arghya-bandyopadhyay-30/vyom_chat?label=version&color=blue)](https://github.com/arghya-bandyopadhyay-30/vyom_chat/releases/tag/v1.0.0)
 
 ### Watch the Snake Eat My Contributions 🐍
 ![Snake animation](https://github.com/arghya-bandyopadhyay-30/arghya-bandyopadhyay-30/blob/output/github-contribution-grid-snake.svg)
+
