@@ -82,12 +82,20 @@
 
 ---
 
-### 📊 Contribution Stats
+## 📊 Contribution Stats
 
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=arghya-bandyopadhyay-30&show_icons=true&title_color=00e676&icon_color=00e676&text_color=ffffff&bg_color=30,004d40,00796b,009688,4db6ac" alt="GitHub Stats"/>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arghya-bandyopadhyay-30&theme=dark" alt="GitHub Streak Stats"/>
-</p>
+<table style="border: none;">
+  <tr>
+    <!-- GitHub Stats -->
+    <td align="center" style="border: none;">
+      <img src="https://github-readme-stats.vercel.app/api?username=arghya-bandyopadhyay-30&show_icons=true&title_color=00e676&icon_color=00e676&text_color=ffffff&bg_color=30,004d40,00796b,009688,4db6ac" alt="GitHub Stats"/>
+    </td>
+    <!-- LeetCode Stats -->
+    <td align="center" style="border: none;">
+      <img src="https://leetcard.jacoblin.cool/arghya-bandyopadhyay?theme=light&font=Ubuntu&ext=heatmap&bg_color=30,004d40,00796b,009688,4db6ac&text_color=ffffff&title_color=00e676" alt="LeetCode Stats"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
