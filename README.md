@@ -28,43 +28,50 @@
 
 ### 🛠️ Languages and Tools
 
-#### Languages
-<p align="left"> 
-    <a href="https://www.java.com/" target="_blank" style="margin-right: 10px;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-    <a href="https://www.python.org" target="_blank" style="margin-right: 10px;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-    <a href="https://www.cprogramming.com/" target="_blank" style="margin-right: 10px;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-    <a href="https://www.cplusplus.com/" target="_blank" style="margin-right: 10px;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-    <a href="https://dart.dev/" target="_blank" style="margin-right: 10px;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="dart" width="40" height="40"/> </a>
-    <a href="https://golang.org/" target="_blank" style="margin-right: 10px;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a>
-</p>
-
-#### Tools & Technologies
-<p align="left">
-    <a href="https://grafana.com/" target="_blank" style="margin-right: 10px;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" alt="grafana" width="40" height="40"/> </a>
-    <a href="https://www.jenkins.io/" target="_blank" style="margin-right: 10px;"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a>
-    <a href="https://www.docker.com/" target="_blank" style="margin-right: 10px;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> </a>
-    <a href="https://flutter.dev/" target="_blank" style="margin-right: 10px;"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
-    <a href="https://reactjs.org/" target="_blank" style="margin-right: 10px;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> </a>
-    <a href="https://angular.io/" target="_blank" style="margin-right: 10px;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular" width="40" height="40"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" style="margin-right: 10px;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html" width="40" height="40"/> </a>
-</p>
-
-#### Databases & Backend
-<p align="left">
-    <a href="https://www.mysql.com/" target="_blank" style="margin-right: 10px;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="sql" width="40" height="40"/> </a>
-    <a href="https://www.postgresql.org/" target="_blank" style="margin-right: 10px;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/> </a>
-    <a href="https://spring.io/projects/spring-boot" target="_blank" style="margin-right: 10px;"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="springboot" width="40" height="40"/> </a>
-    <a href="https://kafka.apache.org/" target="_blank" style="margin-right: 10px;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" alt="kafka" width="40" height="40"/> </a>
-    <a href="https://redis.io/" target="_blank" style="margin-right: 10px;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="redis" width="40" height="40"/> </a>
-</p>
-
-#### Hosting & Platforms
-<p align="left">
-    <a href="https://railway.app/" target="_blank" style="margin-right: 10px;"> <img src="https://railway.app/brand/logo-light.png" alt="railway" width="40" height="40"/> </a>
-    <a href="https://render.com/" target="_blank" style="margin-right: 10px;"> <img src="https://render.com/images/logos/logo-circle-full-color.png" alt="render" width="40" height="40"/> </a>
-    <a href="https://firebase.google.com/" target="_blank" style="margin-right: 10px;"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
-    <a href="https://git-scm.com/" target="_blank" style="margin-right: 10px;"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-</p>
+<table>
+  <tr>
+    <th>Languages</th>
+    <td>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" style="margin-left: 20px;"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" style="margin-left: 20px;"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" style="margin-left: 20px;"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Dart" width="40" height="40" style="margin-left: 20px;"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="40" height="40" style="margin-left: 20px;"/>
+    </td>
+  </tr>
+  <tr>
+    <th>Tools & Technologies</th>
+    <td>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" alt="Grafana" width="40" height="40"/>
+      <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="40" height="40" style="margin-left: 20px;"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" style="margin-left: 20px;"/>
+      <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40" style="margin-left: 20px;"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40" style="margin-left: 20px;"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="40" height="40" style="margin-left: 20px;"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" style="margin-left: 20px;"/>
+    </td>
+  </tr>
+  <tr>
+    <th>Databases & Backend</th>
+    <td>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40" style="margin-left: 20px;"/>
+      <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="40" height="40" style="margin-left: 20px;"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" alt="Kafka" width="40" height="40" style="margin-left: 20px;"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="40" height="40" style="margin-left: 20px;"/>
+    </td>
+  </tr>
+  <tr>
+    <th>Hosting & Platforms</th>
+    <td>
+      <img src="https://railway.app/brand/logo-light.png" alt="Railway" width="40" height="40"/>
+      <img src="https://render.com/images/logos/logo-circle-full-color.png" alt="Render" width="40" height="40" style="margin-left: 20px;"/>
+      <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40" style="margin-left: 20px;"/>
+      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" style="margin-left: 20px;"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -92,11 +99,7 @@
 
 ---
 
-### 🤝 Connect & Collaborate
-- I’m always open to collaborating on interesting projects and contributing to open source. Feel free to connect with me!
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-CONNECT%20WITH%20ME-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/arghya-bandyopadhyay)
-
----
-
 ### 🎭 Fun Quote of the Day
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="center">
+  <img src="https://api.quotable.io/random?tags=technology&maxLength=100" alt="Quote of the Day">
+</p>
