@@ -74,11 +74,19 @@
 
 ---
 
-### 📖 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [The S.O.L.I.D Principle — AVENGER Edition](https://medium.com/@arghya.banerjee/the-s-o-l-i-d-principle-avenger-edition-9b12939e3214)
-- [From Kitchen to Code: The API Behind Every Seamless Digital Experience](https://medium.com/@arghya.banerjee/from-kitchen-to-code-the-hidden-role-of-apis-in-our-connected-world-a59d11e46e89)
-<!-- BLOG-POST-LIST:END -->
+<h2>📚 Latest Blog Posts</h2>
+<ul>
+  <li style="margin-bottom: 10px;">
+    <a href="https://medium.com/@arghya.banerjee/the-s-o-l-i-d-principle-avenger-edition-9b12939e3214" style="color: #00796b; font-weight: bold; font-size: 18px; text-decoration: none;">
+      🔗 The S.O.L.I.D Principle — AVENGER Edition
+    </a>
+  </li>
+  <li>
+    <a href="https://medium.com/@arghya.banerjee/from-kitchen-to-code-the-hidden-role-of-apis-in-our-connected-world-a59d11e46e89" style="color: #009688; font-weight: bold; font-size: 18px; text-decoration: none;">
+      🌐 From Kitchen to Code: The API Behind Every Seamless Digital Experience
+    </a>
+  </li>
+</ul>
 
 ---
 
