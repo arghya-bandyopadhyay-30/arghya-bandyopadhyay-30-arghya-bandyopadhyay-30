@@ -96,7 +96,7 @@
   <tr>
     <!-- GitHub Stats -->
     <td align="center" style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api?username=arghya-bandyopadhyay-30&show_icons=true&title_color=00e676&icon_color=00e676&text_color=ffffff&bg_color=30,004d40,00796b,009688,4db6ac" alt="GitHub Stats"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=arghya-bandyopadhyay-30&show_icons=true&title_color=ffffff&icon_color=48cae4&text_color=ffffff&bg_color=30,023e8a,0096c7,00b4d8,48cae4" alt="GitHub Stats"/>
     </td>
     <!-- LeetCode Stats -->
     <td align="center" style="border: none;">
