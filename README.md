@@ -20,7 +20,6 @@
 
 ### 🌟 About Me
 - 🔭 I’m currently working on **[Vyom Chatbot](https://vyom-chatbot-app.onrender.com)**
-- 🌱 I’m learning **Core JAVA and Machine Learning**
 - 📫 How to reach me **[arghya.bandyopadhyay.official1@gmail.com](mailto:arghya.bandyopadhyay.official1@gmail.com)**
 - ⚡ Fun fact: **I love exploring new technologies and automating boring stuff.**
 
