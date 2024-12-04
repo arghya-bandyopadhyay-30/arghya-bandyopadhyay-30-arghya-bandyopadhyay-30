@@ -72,8 +72,15 @@
 </table>
 
 ---
+## 🏆 LeetCode Achievement Badges
 
-<h2>📚 Latest Blog Posts</h2>
+<p align="center">
+  <img src="https://github.com/arghya-bandyopadhyay-30/arghya-bandyopadhyay-30/blob/main/Leetcode%20Badges.png" alt="Leetcode Badges" width="300"/>
+</p>
+
+---
+
+### 📚 Latest Blog Posts
 <ul>
   <li style="margin-bottom: 10px;">
     <a href="https://medium.com/@arghya.banerjee/the-s-o-l-i-d-principle-avenger-edition-9b12939e3214" style="color: #00796b; font-weight: bold; font-size: 18px; text-decoration: none;">
